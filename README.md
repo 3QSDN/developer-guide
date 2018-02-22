@@ -3,4 +3,4 @@
 **Protecting Content**
 
 * ### Examples
-    * [Control player with javascript](examples/token-based-distribution.md)
+    * [Token based distrbution](examples/token-based-distribution.md)

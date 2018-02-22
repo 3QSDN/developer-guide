@@ -1,10 +1,7 @@
 # Token-based Distribution with 3Q SDN
 
 Your content can be protected by our Token-based auth solution.
-
-```html
-Example URL: https://sdn-global-streaming-cache.3qsdn.com/s/[Generated HASH]/[Timestamp]/3144/files/17/11/766971/3144-F98zkwncqTR7BMg2.ism/manifest.m3u8?format=hls&mime=mp4&source=html5
-```
+URL scheme: `https://sdn-global-streaming-cache.3qsdn.com/s/[Generated HASH]/[Timestamp]/3144/files/17/11/766971/3144-F98zkwncqTR7BMg2.ism/manifest.m3u8?format=hls&mime=mp4&source=html5`
 
 Generate Token in PHP
 

@@ -23,8 +23,6 @@ return $md5.'/'.$expires;
 
 Generate Link
 
-```html
-https://sdn-global-streaming-cache.3qsdn.com/s/{generateToken()}/3144/files/17/11/766971/3144-F98zkwncqTR7BMg2.ism/manifest.m3u8?format=hls&mime=mp4&source=html5
-```
+`https://sdn-global-streaming-cache.3qsdn.com/s/{generateToken()}/3144/files/17/11/766971/3144-F98zkwncqTR7BMg2.ism/manifest.m3u8?format=hls&mime=mp4&source=html5`
 
 Back to [index](../README.md).

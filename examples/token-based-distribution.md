@@ -14,7 +14,7 @@ $expires = time() + 216000;
 $_remote_addr = '127.0.0.1'; // Remote Adress where Content gets received from
 $_user_agent = ''; // User Agent
 $project_key = ''; // Your private project key
-$md5 = md5($expires.$secret.$_user_agent.$_remote_addr, false);
+$md5 = md5($expires.$project_key.$_user_agent.$_remote_addr, false);
 
 return $md5.'/'.$expires;
 
